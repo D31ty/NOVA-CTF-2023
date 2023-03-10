@@ -6,3 +6,6 @@
 
 # Query
 For any queries related to writeups feel free to contact us!
+
+# Connect Us @
+  iQube - iqube@kct.ac.in
